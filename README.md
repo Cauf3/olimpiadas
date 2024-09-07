@@ -1,4 +1,6 @@
-[**Como funciona:**
+## Cristal gems - Imersão dev com Google Gemini
+
+**Como funciona:**
 
 1. **Digite o que você procura:** Na barra de pesquisa, digite o nome de uma gema, uma habilidade ou qualquer outra coisa relacionada ao universo de Steven Universo.
 2. **Resultados instantâneos:** A aplicação vasculha nossa base de dados e te mostra os resultados mais relevantes.
